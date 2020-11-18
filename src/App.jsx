@@ -1,7 +1,8 @@
 import React from 'react';
 import styles from './App.module.css';
-import Header from './components/header/Header';
-import Balance from './components/balance/Balance';
+import Header from './components/Header';
+import Balance from './components/Balance';
+import IncomeExpenses from './components/incomeExpense/IncomeExpenses';
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Header />
       <div className={styles.container}>
         <Balance />
+        <IncomeExpenses />
       </div>
     </div>
   );
