@@ -6,4 +6,4 @@ npm i express dotenv mongoose colors morgan
 
 npm i nodemon concurrently
 
-mongoose메소드는 promise 
+mongoose메소드는 promise 리턴
