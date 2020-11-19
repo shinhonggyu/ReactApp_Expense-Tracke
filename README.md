@@ -1,4 +1,4 @@
-Frontend: https://shinhonggyu.github.io/ReactApp_Expense-Tracke/
+Frontend: https://shinhonggyu.github.io/ReactApp_Expense-Tracker/
 
 dependency: npm init
 
