@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shinhonggyu/ReactApp_Expense-Tracker_PostCSS.git"
+    "url": "git+https://github.com/shinhonggyu/ReactApp_Expense-Tracker"
   },
   "author": "shin",
   "license": "MIT",
